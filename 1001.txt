@@ -5,6 +5,9 @@
 using namespace std;
 int main(){
 int in,res = 0;
+asdasdsad 
+dasdasd
+asdasdsad
     scanf("%d",&in);
     while(in !=1){
         if(in%2 == 0){
@@ -16,6 +19,9 @@ int in,res = 0;
             res++;
         }
 }
+adfdafa
+adfadfa
+adffrfrf
 cout<<res;
 //dddd
 //ffffff
