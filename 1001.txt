@@ -17,8 +17,8 @@ int in,res = 0;
             res++;
         }
 }
-printf("%d",res);
-printf("%d",res);
-//哈哈哈哈
+cout<<res;
+//dddd
+//啊啊啊啊啊啊
     return 0;
 }
