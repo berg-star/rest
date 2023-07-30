@@ -1,6 +1,6 @@
 #include<iostream>
 #include<stdio.h>
-#include<set>
+#include<map>
 using namespace std;
 int main(){
 int in,res = 0;
