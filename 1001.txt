@@ -17,14 +17,8 @@ int in,res = 0;
             res++;
         }
 }
-<<<<<<< HEAD
 cout<<res;
 cout<<res;
 //啊啊啊啊啊啊
-=======
-printf("%d",res);
-printf("%d",res);
-printf("%d",res);
->>>>>>> da280acfef0af5d67020b7aa99d56190d0d902f4
     return 0;
 }
