@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main(){
+int in,res = 0;
+    cin>>in;
+    while(in !=1){
+        if(in%2 == 0){
+            in = in>>1;
+            res++;
+        }else{
+            in = in*3 + 1;
+            in = in>>1;
+            res++;
+        }
+}
+cout<<res;
+    return 0;
+}
