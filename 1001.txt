@@ -18,5 +18,7 @@ int in,res = 0;
         }
 }
 cout<<res;
+cout<<res;
+//啊啊啊啊啊啊
     return 0;
 }
