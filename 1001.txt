@@ -1,13 +1,8 @@
 #include<iostream>
 #include<stdio.h>
 #include<map>
-<<<<<<< HEAD
 #include<>
 #include<math.h>
-=======
-#include<string>
-#include<set>
->>>>>>> b93a5aa4de11f53edc13af19db2225ab6f051759
 using namespace std;
 int main(){
 int in,res = 0;
@@ -22,14 +17,8 @@ int in,res = 0;
             res++;
         }
 }
-<<<<<<< HEAD
 cout<<res;
 //dddd
 //啊啊啊啊啊啊
-=======
-printf("%d",res);
-printf("%d",res);
-//哈哈哈哈
->>>>>>> b93a5aa4de11f53edc13af19db2225ab6f051759
     return 0;
 }
