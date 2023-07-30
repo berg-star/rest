@@ -17,6 +17,8 @@ int in,res = 0;
             res++;
         }
 }
-cout<<res;
+printf("%d",res);
+printf("%d",res);
+printf("%d",res);
     return 0;
 }
